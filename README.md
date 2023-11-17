@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/mixpuppy/Yongin-GIS-System-App/blob/main/app/src/main/res/drawable/app_icon.png"/>
 </div>
-<h2>🌟<a href="[https://motley-beach-4e9.notion.site/GIS-34d83db14bfe40f2bded60436ffbfec4?pvs=4](https://iamjeesoo.notion.site/GIS-b49ef8a2f9574b1fa39292f3c3154290?pvs=4)">프로젝트 소개 링크</a></h2>
+<h2>🌟<a href="https://iamjeesoo.notion.site/GIS-b49ef8a2f9574b1fa39292f3c3154290?pvs=4">프로젝트 소개 링크</a></h2>
 
 <h2>🗂️ Contents </h2>
 -   <a href="#0"> 🔗 Service Introduce </a> <br/>

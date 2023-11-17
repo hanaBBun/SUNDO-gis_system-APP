@@ -25,7 +25,7 @@
   🧑‍💻 Technology
 </h2>
 
-<B>🛠 Lnguage</B> <br/>
+<B>🛠 Language</B> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`JDK17`, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`SDK 34 (min SDK 26)` <br/>
 <b>🛠 AndroidX</b> <br/>
